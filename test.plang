@@ -1,0 +1,5 @@
+print("hello")
+echo hello
+print hello
+typecast 6+9*(6+9)
+calc 6+9*(6+9)
